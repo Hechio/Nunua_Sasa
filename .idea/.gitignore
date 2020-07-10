@@ -1,3 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/pyshop/strings.py
+/pyshop/__pycache__/
